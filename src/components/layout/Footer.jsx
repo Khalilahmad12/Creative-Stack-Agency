@@ -20,7 +20,7 @@ export function Footer() {
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-lg bg-red-600 flex items-center justify-center text-white font-black overflow-hidden shadow-md">
                 <img
-                  src="/src/assets/images/creative_stack_logo_1782645912215.jpg"
+                  src="https://khalilahmad12.github.io/agency-images/creative_stack_logo_1782645912215.jpeg"
                   alt="Creative Stack Agency Logo"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"
