@@ -75,7 +75,7 @@ export function Navbar({ activeSection }) {
         >
           <div className="relative h-10 w-10 flex items-center justify-center bg-red-600 rounded-lg overflow-hidden group-hover:scale-105 transition-transform duration-300 shadow-md">
             <img
-              src="/src/assets/images/creative_stack_logo_1782645912215.jpg"
+              src="https://khalilahmad12.github.io/agency-images/creative_stack_logo_1782645912215.jpeg"
               alt="Creative Stack Agency Logo"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover"
@@ -157,7 +157,7 @@ export function Navbar({ activeSection }) {
             <div className="flex items-center gap-2">
               <div className="h-8 w-8 flex items-center justify-center bg-red-600 rounded-lg overflow-hidden">
                 <img
-                  src="/src/assets/images/creative_stack_logo_1782645912215.jpg"
+                  src="https://khalilahmad12.github.io/agency-images/creative_stack_logo_1782645912215.jpeg"
                   alt="Creative Stack Agency Logo"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"
